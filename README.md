@@ -6,4 +6,6 @@ I always wanted to draw using turtle<br>
 Time passed by<br>
 I stumbled uipon the turtle module in python<br>
 I was overwhelmed with joy<br>
+So how does this worls?<br>
+I'll explain soon
 
